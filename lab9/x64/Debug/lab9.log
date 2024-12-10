@@ -1,0 +1,7 @@
+﻿  lab9.cpp
+C:\Users\Марина\Desktop\lab9\lab9.cpp(4,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  C:\Users\Марина\Desktop\lab9\lab9.cpp(4,1):
+  "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+C:\Users\Марина\Desktop\lab9\lab9.cpp(58,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab9.vcxproj -> C:\Users\Марина\Desktop\lab9\x64\Debug\lab9.exe
